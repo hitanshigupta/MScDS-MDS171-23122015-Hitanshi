@@ -7,7 +7,7 @@ EMAIL - hitanshi.gupta@msds.christuniversity.in
 
 # CONTENT
 
-|CLASS|QUESTION|LINK|
-|-----|--------------------------------------------------|-------------------------------|
-|Lab01|Program to print your name|[Lab01](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab01.ipynb)|
-|Lab02|The Name Collector's Quest|[Lab02](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab02.ipynb)|
+|CLASS|DATE|QUESTION|LINK|
+|-----|----------|----------------------------------------|-------------------------------|
+|Lab01|24th Aug 2023|Program to print your name|[Lab01](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab01.ipynb)|
+|Lab02|28th Aug 2023|The Name Collector's Quest|[Lab02](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab02.ipynb)|
