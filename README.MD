@@ -14,4 +14,4 @@ EMAIL - hitanshi.gupta@msds.christuniversity.in
 |Lab03|01st Sep 2023|The Tale of Numbers' Harmony|[Lab03](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab03.ipynb) |
 |Lab04|04th Sep 2023|A Taste of Success: The Restaurant Management System| [Lab04](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab04.ipynb) |
 |Lab05|08th Sep 2023|Mix & Match Calculator|https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/tree/main/LAB05 |
-|Lab06|11th Sep 2023|Vowel Counter|[Lab06]
+|Lab06|11th Sep 2023|Vowel Counter|[Lab06](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab06.ipynb) |
