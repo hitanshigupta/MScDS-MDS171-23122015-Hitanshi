@@ -1,0 +1,18 @@
+
+Order ID: 81768
+Veg Pizza - 1 x Rs250 = Rs250
+Veg Burger - 1 x Rs120 = Rs120
+Total: Rs370
+
+Order ID: 68437
+Veg Manchurian - 1 x Rs450 = Rs450
+Fried Rice - 1 x Rs350 = Rs350
+Veg Noodles - 1 x Rs350 = Rs350
+Lime Soda - 1 x Rs100 = Rs100
+Virgin Mojito - 1 x Rs200 = Rs200
+Total: Rs1450
+
+Order ID: 37055
+Virgin Mojito - 5 x Rs200 = Rs1000
+Total: Rs1000
+
