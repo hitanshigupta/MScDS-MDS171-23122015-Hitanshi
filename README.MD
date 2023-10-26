@@ -17,3 +17,4 @@ EMAIL - hitanshi.gupta@msds.christuniversity.in
 |Lab06|11th Sep 2023|Vowel Counter|[Lab06](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab06.ipynb) |
 |Lab07|15th Sep 2023|My Menu Driven Restaurant|[Lab07](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab07.ipynb) |
 |Lab09|22nd Sep 2023|Class Expense Tracker|[Lab09](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/tree/main/Lab09) |
+|Lab10|26th Oct 2023|Practice Question|[Lab10](https://github.com/hitanshigupta/MScDS-MDS171-23122015-Hitanshi/blob/main/Lab10.ipynb) |
